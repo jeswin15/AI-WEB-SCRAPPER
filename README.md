@@ -77,8 +77,7 @@ We welcome contributions! Feel free to fork the repository, raise issues, or sub
 
 For any queries or support, feel free to reach out:
 
-- **Email**: naveennk045@gmail.com
-
+- **Email**: jeswin1564@gmail.com
 ## 📜 **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
